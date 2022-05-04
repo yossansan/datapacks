@@ -1,0 +1,11 @@
+{
+  "parent": "yossan_functions:triger/root",
+  "criteria": {
+    "": {
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "rewards": {
+    "function": "yossan_functions:player_hurt/main"
+  }
+}
