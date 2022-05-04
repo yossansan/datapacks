@@ -29,4 +29,11 @@ minecraft:cache
     {
         Number:0
     }
+    Mob
+    {
+        spawn
+        {
+            type:"minecraft:zombie_spawn_egg"
+        }
+    }
 }
