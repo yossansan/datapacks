@@ -1,11 +1,11 @@
 {
-  "parent": "yossan_functions:triger/root",
+  "parent": "yossan:triger/root",
   "criteria": {
     "": {
       "trigger": "minecraft:player_killed_entity"
     }
   },
   "rewards": {
-    "function": "yossan_functions:player_killed/main"
+    "function": "yossan:player_killed/main"
   }
 }

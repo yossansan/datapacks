@@ -1,5 +1,5 @@
 {
-  "parent": "yossan_functions:triger/root",
+  "parent": "yossan:triger/root",
   "criteria": {
     "1": {
       "trigger": "minecraft:inventory_changed",
@@ -15,6 +15,6 @@
     }
   },
   "rewards": {
-    "function": "yossan_functions:experience/hasxpitem/body1"
+    "function": "yossan:experience/hasxpitem/body1"
   }
 }
