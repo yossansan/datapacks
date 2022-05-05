@@ -14,4 +14,12 @@ Command
         SpawnedLocation:[]
 
     }
+    BaseMobStates:
+    {
+        Lv:1
+        HP:100
+        ATK:100
+        DEF:100
+        Speed:100
+    }
 }
