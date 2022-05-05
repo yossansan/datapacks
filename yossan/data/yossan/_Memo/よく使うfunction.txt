@@ -1,4 +1,0 @@
-function yossan:playerstorage/selectstorage/main
-{
-    execute positioned as @e[type=armor_stand,tag=selectstorage] run data get block ~ ~ ~ Items.[0].tag.widget.Cache.Rotation
-}

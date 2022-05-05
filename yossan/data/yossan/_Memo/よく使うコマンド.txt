@@ -1,5 +1,0 @@
-@e[type=minecraft:armor_stand,tag=datapack_arm1]
-
-@e[type=armor_stand,tag=selectstorage]
-
-data merge block ~ ~ ~ {auto:1b}
