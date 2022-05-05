@@ -1,1 +1,0 @@
-execute as @e[type=area_effect_cloud,tag=cbnet_pos] run function yossan:mob/spawn/body1

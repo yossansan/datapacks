@@ -1,1 +1,0 @@
-data modify block ~ ~ ~ Items append value {Slot:0b,id:"minecraft:stone",Count:1b,tag:{display:{Name:'{"text":"CacheStone"}'}}}

@@ -1,1 +1,0 @@
-execute as @a[nbt={Inventory:[{id:"minecraft:nether_star"}]}] run function yossan:experience/hasxpitem/body1

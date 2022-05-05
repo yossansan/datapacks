@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:armor_stand,tag=datapack_arm1] run function yossan:datapack_arm/reset/body1
