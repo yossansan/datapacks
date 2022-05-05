@@ -1,0 +1,1 @@
+function yossan:mob/spawnedlocation/check
