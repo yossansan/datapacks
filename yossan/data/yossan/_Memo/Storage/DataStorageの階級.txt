@@ -36,4 +36,15 @@ minecraft:cache
             type:"minecraft:zombie_spawn_egg"
         }
     }
+    title:
+    {
+        Text:
+        {
+            Section1:{"text":""}
+            Section2:{"text":""}
+            Section3:{"text":""}
+            Section4:{"text":""}
+            Section5:{"text":""}
+        }
+    }
 }
