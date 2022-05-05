@@ -1,0 +1,25 @@
+Command
+{
+    CommandBlockAuto:
+    {
+        Enable:1b
+        TargetPos:[]
+        BePickupDelayZero:1b    #プレイヤーが投げたらすぐ手元に戻るやつ
+    }
+    
+    MobStates:
+    {
+        type:"minecraft:zombie_spawn_egg"     #大抵スポーンエッグ
+        Level:1     #Mobのレベル。強さはこれで決める。
+        SpawnedLocation:[]
+
+    }
+    BaseMobStates:
+    {
+        Lv:1
+        HP:100
+        ATK:100
+        DEF:100
+        Speed:100
+    }
+}

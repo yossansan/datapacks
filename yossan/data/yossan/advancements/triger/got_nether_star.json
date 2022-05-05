@@ -1,0 +1,20 @@
+{
+  "parent": "yossan:triger/root",
+  "criteria": {
+    "1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:nether_star"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "yossan:experience/hasxpitem/body1"
+  }
+}

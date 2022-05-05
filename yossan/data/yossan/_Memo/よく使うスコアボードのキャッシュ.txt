@@ -1,0 +1,1 @@
+scoreboard players operation PlayerNumber CacheA = @s PlayerNumber
