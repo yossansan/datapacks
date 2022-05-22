@@ -59,19 +59,33 @@ minecraft:cache
             Section5:{"text":""}
         }
     }
-    talked_to_Villager:
+    talked_to_villager:
     {
         Find:
         {
-            Source:
-            [
-                {Items.[0].tag.States.Progress.talked_to_Villager}
-            ]
-            Result:
+            States:
             {
-                Pos:[],
-                Progress:1
-                
+                Source:
+                [
+                    {Items.[0].tag.States.Progress.talked_to_villager}
+                ]
+                Result:
+                {
+                    Pos:[],
+                    Progress:1
+                }
+            }
+            pages:
+            {
+                Source:
+                [
+                    {Items.[0].tag.States.Progress.talked_to_villager}
+                ]
+                Result:
+                {
+                    Pos:[],
+                    Progress:1
+                }
             }
         }
     }
