@@ -3,3 +3,9 @@
 @e[type=armor_stand,tag=selectstorage]
 
 data merge block ~ ~ ~ {auto:1b}
+
+tellraw @a {"score":{"name":"Cache1","objective":"CacheA"}}
+
+tellraw @a {"nbt":"Items.[0].tag.States","block":"~ ~ ~"}
+
+tellraw @a {"nbt":"talked_to_villager","storage":"minecraft:cache"}

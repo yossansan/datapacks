@@ -25,15 +25,27 @@ minecraft:cache
             }
         }
     }
-    player_number
+    player_number:
     {
         Number:0
     }
-    Mob
+    Mob:
     {
-        spawn
+        spawn:
         {
             type:"minecraft:zombie_spawn_egg"
+        }
+        villager:
+        {
+            trader:
+            {
+                oneRecipe:
+                {
+                    buy:{}
+                    buyB:{}
+                    sell:{}
+                }
+            }
         }
     }
     title:
@@ -45,6 +57,22 @@ minecraft:cache
             Section3:{"text":""}
             Section4:{"text":""}
             Section5:{"text":""}
+        }
+    }
+    talked_to_Villager:
+    {
+        Find:
+        {
+            Source:
+            [
+                {Items.[0].tag.States.Progress.talked_to_Villager}
+            ]
+            Result:
+            {
+                Pos:[],
+                Progress:1
+                
+            }
         }
     }
 }

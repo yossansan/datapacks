@@ -1,3 +1,7 @@
+例：
+
+
+
 {
     States:
     {
@@ -33,5 +37,12 @@
         {
             Pos:[]
         }
+    }
+    Progress:
+    {
+        talked_to_Villager:
+        [
+            {Pos:[],Progress:1}
+        ]
     }
 }
