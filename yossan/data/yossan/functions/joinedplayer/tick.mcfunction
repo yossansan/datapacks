@@ -1,0 +1,1 @@
+execute as @a unless score @s leave_game matches 0 run function yossan:joinedplayer/body1

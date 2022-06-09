@@ -1,0 +1,1 @@
+execute as @e[type=!player,type=!armor_stand,type=!area_effect_cloud] positioned as @s run function yossan:mob/priority/tick_1s/body1

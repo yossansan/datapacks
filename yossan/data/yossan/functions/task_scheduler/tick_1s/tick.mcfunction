@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:armor_stand,tag=datapack_arm1] run function yossan:task_scheduler/tick/body1

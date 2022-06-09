@@ -1,0 +1,1 @@
+execute as @e[type=item,tag=!checked_item] positioned as @s run function yossan:check_item/body1

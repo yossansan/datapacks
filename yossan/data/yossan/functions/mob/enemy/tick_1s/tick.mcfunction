@@ -1,0 +1,1 @@
+execute as @e[tag=Enemy,tag=Active] positioned as @s run function yossan:mob/enemy/tick_1s/active/main

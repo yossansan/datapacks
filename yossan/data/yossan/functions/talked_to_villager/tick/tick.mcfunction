@@ -1,0 +1,1 @@
+execute as @a[scores={talked_to_villager=1..}] at @s run function yossan:talked_to_villager/tick/body1

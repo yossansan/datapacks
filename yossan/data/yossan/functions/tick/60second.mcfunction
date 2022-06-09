@@ -1,0 +1,1 @@
+execute as @e[type=villager] run function yossan:mob/villager/setup/main

@@ -1,0 +1,1 @@
+execute positioned as @e[type=minecraft:armor_stand,tag=datapack_arm1] run function yossan:exec_commandblock/by_pos/main

@@ -1,0 +1,1 @@
+execute as @a at @s run function yossan:title/tick_1s/body1

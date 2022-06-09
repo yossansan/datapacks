@@ -1,0 +1,1 @@
+execute as @a[scores={sneak_time=1..}] run function yossan:sneak_time/tick/body2

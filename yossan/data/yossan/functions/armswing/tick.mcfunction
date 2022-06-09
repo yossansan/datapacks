@@ -1,0 +1,1 @@
+execute if entity @a[scores={armswing=1..}] run function yossan:armswing/body1
